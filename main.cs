@@ -1,6 +1,8 @@
 using System;
 using System.Linq;
 
+// Test LINQ syntax
+
 class Student
 {
     public int StudentID { get; set; }
